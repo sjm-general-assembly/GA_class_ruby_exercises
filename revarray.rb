@@ -1,4 +1,4 @@
-arr = [1,4,8,9,12,14]
+arr = [1,4,8,9,12,14,27]
 puts arr
 i = 0
 while i < arr.size/2
