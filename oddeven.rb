@@ -1,4 +1,4 @@
-#exercise for git
+#exercise for git take 2
 puts "Please enter a number."
 
 myNum = gets.to_i
