@@ -1,4 +1,4 @@
-arr = [1,4,8,9,12]
+arr = [1,4,8,9,12,14]
 puts arr
 i = 0
 while i < arr.size/2
@@ -8,3 +8,4 @@ while i < arr.size/2
 	i += 1
 end
 puts arr
+# adding a comment
