@@ -1,3 +1,4 @@
+#exercise for git
 puts "Please enter a number."
 
 myNum = gets.to_i
